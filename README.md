@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-<!--
-**StandyMerizier/standymerizier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer who is detail-oriented and motivated with passion for building high-quality, clean and efficient code.  Always striving for growth, I expanded my coding acumen through a 1,000+ hour coding Bootcamp focused on Node and React, where I mastered working independently in a collaborative setting by pushing all features to production ahead of C level deadlines.  I have gained experience with front-end technology that incorporates backend and full stack technologies, most evidently bringing about a new platform for 40,000 users. Through leadership and expertise, I am now giving back by being a teaching assistant for another web development bootcamp. I am now eager to tackle more complex challenges and continue to find ways to build front end and Node JS solutions for real-world problems.
 
-Here are some ideas to get you started:
+👀 View my portfolio here: [Portfolio](www.standymerizier.com)
+
+📝 Check my resume out here: [Standy's Resume](https://drive.google.com/file/d/14zS17MpSHMFbF512H8SvLXlFxNWKAY__/view?usp=sharing)
+
+💬 Message me here: [Linkedin](https://www.linkedin.com/in/standymerizier/)
+
+📫 Reach me via email: [standy.merizier@gmail.com](mailto:standy.merizier@gmail.com)
+
+📲 Call Me here: check resume or send email
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
