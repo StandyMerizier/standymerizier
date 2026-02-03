@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Software engineer who is detail-oriented and motivated with passion for building high-quality, clean and efficient code.  Always striving for growth, I expanded my coding acumen through a 1,000+ hour coding Bootcamp focused on Node and React, where I mastered working independently in a collaborative setting by pushing all features to production ahead of C level deadlines.  I have gained experience with front-end technology that incorporates backend and full stack technologies, most evidently bringing about a new platform for 40,000 users. Through leadership and expertise, I am now giving back by being a teaching assistant for another web development bootcamp. I am now eager to tackle more complex challenges and continue to find ways to build front end and Node JS solutions for real-world problems.
+Software Engineer with 6+ years of experience building scalable, production-ready web and SaaS applications using JavaScript, React, and Node.js. Passionate about clean, efficient code and solving real-world problems. Delivered full-stack features to production ahead of executive deadlines, contributing to platforms used by 40,000+ users. Strong in API design, cloud-based systems, and modern web architectures, with experience across microservices and enterprise platforms like Salesforce. Mentor and teaching assistant, always pushing to grow and build better software.
 
 👀 View my portfolio here: [Portfolio](www.standymerizier.com)
 
-📝 Check my resume out here: [Standy's Resume](https://drive.google.com/file/d/14zS17MpSHMFbF512H8SvLXlFxNWKAY__/view?usp=sharing)
+📝 Check my resume out here: [Standy's Resume]([https://drive.google.com/file/d/14zS17MpSHMFbF512H8SvLXlFxNWKAY__/view?usp=sharing](https://docs.google.com/document/d/1mErgKpDCkAJ9krA1bi6gvqADxAjdTsfWpb1E1d6K3m8/edit?usp=sharing))
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/standymerizier/)
 
 📫 Reach me via email: [standy.merizier@gmail.com](mailto:standy.merizier@gmail.com)
 
-📲 Call Me here: check resume or send email
+📲 Call Me here: check my resume or send an email
 
 
 
