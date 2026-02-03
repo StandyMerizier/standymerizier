@@ -4,7 +4,7 @@ Software Engineer with 6+ years of experience building scalable, production-read
 
 👀 View my portfolio here: [Portfolio](www.standymerizier.com)
 
-📝 Check my resume out here: [Standy's Resume]([https://drive.google.com/file/d/14zS17MpSHMFbF512H8SvLXlFxNWKAY__/view?usp=sharing](https://docs.google.com/document/d/1mErgKpDCkAJ9krA1bi6gvqADxAjdTsfWpb1E1d6K3m8/edit?usp=sharing))
+📝 Check my resume out here: [Standy's Resume]([[https://drive.google.com/file/d/14zS17MpSHMFbF512H8SvLXlFxNWKAY__/view?usp=sharing](https://docs.google.com/document/d/1mErgKpDCkAJ9krA1bi6gvqADxAjdTsfWpb1E1d6K3m8/edit?usp=sharing)](https://docs.google.com/document/d/e/2PACX-1vTOl57WC-RMDavg8i1GnglKiS1J5uhWI_NUTkr2fz95c3mOced9zv6uu1c5ipHlqzd9-DsQbvU3mPa8/pub))
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/standymerizier/)
 
